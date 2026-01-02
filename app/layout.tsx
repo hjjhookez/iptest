@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "IP Location Tracker - 실시간 IP 위치 추적",
   description: "IP 주소의 위치 정보를 실시간으로 확인하세요. 국가, 도시, ISP 정보 등을 제공합니다.",
-    generator: 'v0.app'
+    generator: '0rdq'
 }
 
 export default function RootLayout({
